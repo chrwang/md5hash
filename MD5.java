@@ -1,10 +1,8 @@
-package net.mrpaul.aoa.px180.ps02;
-
 import java.io.BufferedInputStream;
 import java.io.IOException;
 import java.util.Arrays;
 
-public class Kruskal {
+public class MD5 {
 	
 	public static void main(String[] args) throws IOException {
 		BufferedInputStream in = new BufferedInputStream(System.in);
