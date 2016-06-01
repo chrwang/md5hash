@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bfba8fc4-831c-4ca8-b1c7-e62361df1517" name="Default" comment="Implementation complete, and checked with RFC.">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MD5.java" afterPath="" />
-    </list>
-    <list id="022fb962-a5f2-4e07-b4ed-f8bce0da506e" name="Rejected commit: Default" comment="Implementation complete, and checked with RFC.">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hashbrown5/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hashbrown5/hashbrown5.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hashbrown5/src/hashbrown5/MD5.java" afterPath="$PROJECT_DIR$/hashbrown5/src/hashbrown5/MD5.java" />
-    </list>
+    <list default="true" id="bfba8fc4-831c-4ca8-b1c7-e62361df1517" name="Default" comment="Implementation complete, and checked with RFC." />
+    <list id="022fb962-a5f2-4e07-b4ed-f8bce0da506e" name="Rejected commit: Default" comment="Implementation complete, and checked with RFC." />
     <ignored path="md5hash.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/hashbrown5/bin/" />
@@ -33,14 +27,14 @@
       <file leaf-file-name="MD5.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hashbrown5/src/hashbrown5/MD5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.21985058">
-              <caret line="50" column="7" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.9615795">
+              <caret line="55" column="36" selection-start-line="55" selection-start-column="36" selection-end-line="55" selection-end-column="36" />
               <folding>
                 <element signature="docComment;class#MD5#0" expanded="true" />
                 <element signature="initializer##0;class#MD5#0" expanded="true" />
                 <element signature="docComment;method#main#0;class#MD5#0" expanded="true" />
                 <element signature="method#main#0;class#MD5#0" expanded="true" />
-                <element signature="method#bytesToHex#0;class#MD5#0" expanded="true" />
+                <element signature="docComment;method#bytesToHex#0;class#MD5#0" expanded="true" />
                 <element signature="docComment;method#f#0;class#MD5#0" expanded="true" />
                 <element signature="e#2394#2395#0" expanded="true" />
                 <element signature="e#2437#2438#0" expanded="true" />
@@ -676,12 +670,12 @@
       <workItem from="1464289665739" duration="496000" />
       <workItem from="1464720169325" duration="1153000" />
       <workItem from="1464723044585" duration="1438000" />
-      <workItem from="1464727370484" duration="16612000" />
+      <workItem from="1464727370484" duration="16980000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19699000" />
+    <option name="totallyTimeSpent" value="20067000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1599" y="0" width="1922" height="1080" extended-state="6" />
@@ -751,7 +745,7 @@
             <element signature="initializer##0;class#MD5#0" expanded="true" />
             <element signature="docComment;method#main#0;class#MD5#0" expanded="true" />
             <element signature="method#main#0;class#MD5#0" expanded="true" />
-            <element signature="method#bytesToHex#0;class#MD5#0" expanded="true" />
+            <element signature="docComment;method#bytesToHex#0;class#MD5#0" expanded="true" />
             <element signature="docComment;method#f#0;class#MD5#0" expanded="true" />
             <element signature="e#2394#2395#0" expanded="true" />
             <element signature="e#2437#2438#0" expanded="true" />
@@ -779,7 +773,7 @@
             <element signature="initializer##0;class#MD5#0" expanded="true" />
             <element signature="docComment;method#main#0;class#MD5#0" expanded="true" />
             <element signature="method#main#0;class#MD5#0" expanded="true" />
-            <element signature="method#bytesToHex#0;class#MD5#0" expanded="true" />
+            <element signature="docComment;method#bytesToHex#0;class#MD5#0" expanded="true" />
             <element signature="docComment;method#f#0;class#MD5#0" expanded="true" />
             <element signature="e#2394#2395#0" expanded="true" />
             <element signature="e#2437#2438#0" expanded="true" />
@@ -807,7 +801,7 @@
             <element signature="initializer##0;class#MD5#0" expanded="true" />
             <element signature="docComment;method#main#0;class#MD5#0" expanded="true" />
             <element signature="method#main#0;class#MD5#0" expanded="true" />
-            <element signature="method#bytesToHex#0;class#MD5#0" expanded="true" />
+            <element signature="docComment;method#bytesToHex#0;class#MD5#0" expanded="true" />
             <element signature="docComment;method#f#0;class#MD5#0" expanded="true" />
             <element signature="e#2394#2395#0" expanded="true" />
             <element signature="e#2437#2438#0" expanded="true" />
@@ -857,14 +851,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hashbrown5/src/hashbrown5/MD5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21985058">
-          <caret line="50" column="7" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.9615795">
+          <caret line="55" column="36" selection-start-line="55" selection-start-column="36" selection-end-line="55" selection-end-column="36" />
           <folding>
             <element signature="docComment;class#MD5#0" expanded="true" />
             <element signature="initializer##0;class#MD5#0" expanded="true" />
             <element signature="docComment;method#main#0;class#MD5#0" expanded="true" />
             <element signature="method#main#0;class#MD5#0" expanded="true" />
-            <element signature="method#bytesToHex#0;class#MD5#0" expanded="true" />
+            <element signature="docComment;method#bytesToHex#0;class#MD5#0" expanded="true" />
             <element signature="docComment;method#f#0;class#MD5#0" expanded="true" />
             <element signature="e#2394#2395#0" expanded="true" />
             <element signature="e#2437#2438#0" expanded="true" />
